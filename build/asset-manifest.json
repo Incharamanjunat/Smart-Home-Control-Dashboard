@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Smart-Home-Control-Dashboard-main/static/css/main.8d58935c.css",
+    "main.js": "/Smart-Home-Control-Dashboard-main/static/js/main.357e1d43.js",
+    "static/js/787.bda43f94.chunk.js": "/Smart-Home-Control-Dashboard-main/static/js/787.bda43f94.chunk.js",
+    "static/media/Bgimg.png": "/Smart-Home-Control-Dashboard-main/static/media/Bgimg.c4a5a24d06e8d9df120c.png",
+    "static/media/cloud.png": "/Smart-Home-Control-Dashboard-main/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/Smart-Home-Control-Dashboard-main/index.html",
+    "main.8d58935c.css.map": "/Smart-Home-Control-Dashboard-main/static/css/main.8d58935c.css.map",
+    "main.357e1d43.js.map": "/Smart-Home-Control-Dashboard-main/static/js/main.357e1d43.js.map",
+    "787.bda43f94.chunk.js.map": "/Smart-Home-Control-Dashboard-main/static/js/787.bda43f94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d58935c.css",
+    "static/js/main.357e1d43.js"
+  ]
+}
